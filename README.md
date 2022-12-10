@@ -5,6 +5,7 @@
 조현준 : https://github.com/joon123456/joon/tree/main  
 정재인 : https://github.com/jane424/CIT  
 성우주: https://github.com/woojoo1/woojoo  
+webcam : https://docs.google.com/presentation/d/1p_Bu6wM118H5crLndXxdPRPiJ8qjUSxDI5YEHLqgJS4/edit#slide=id.g1185c551acd_0_39
 
 
 
